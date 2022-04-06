@@ -159,7 +159,10 @@ main {
 #div-1,
 #div-2,
 #div-3 {  
-        justify-content: center;
+       padding: 25px;
+       height: 400px;
+       text-align: center;
+      
       }
 }
 /* ==========================================================================
